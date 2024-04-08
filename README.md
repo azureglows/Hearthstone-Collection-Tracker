@@ -9,7 +9,7 @@ Main plugin window:
 
 ![Overlay](https://i.imgur.com/P6nuKbB.png "Main window")
 
-Collection editor
+Collection editor::
 
 ![Overlay](https://i.imgur.com/UcRm66E.png "Collection editor")
 
